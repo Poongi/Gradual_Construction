@@ -1,0 +1,2 @@
+Original text: This film is boring
+Composite text: This film is funny

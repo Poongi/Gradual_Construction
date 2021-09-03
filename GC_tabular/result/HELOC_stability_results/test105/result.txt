@@ -1,0 +1,4 @@
+output_org: [0.818 0.182]
+pred_org: 0
+output_comp: [0.49 0.51]
+pred_comp: 1
