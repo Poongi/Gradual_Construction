@@ -1,0 +1,5 @@
+Original text: ['Despite' 'a' 'totally' 'misleading' 'advertising' 'campaign,' 'this'
+ 'flick' 'turns' 'out' 'to' 'be' 'an' 'irritatingly' 'clichéd,' 'sub-par'
+ 'haunted' 'house' 'flick' 'with' 'a' 'totally' 'implausible' 'ending.'
+ 'Clue']
+Composite text: Despite a totally captivating advertising campaign, this flick turns out to be an irritatingly clichéd, sub-par haunted house flick with a totally implausible ending. Clue
