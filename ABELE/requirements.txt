@@ -1,0 +1,8 @@
+scikit-learn==0.21.3
+scikit-image
+deap
+keras
+tensorflow==1.14.0
+tensorflow-gpu==1.14.0
+keras==2.2.4
+delayed
