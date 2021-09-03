@@ -1,0 +1,11 @@
+0
+[{'PercentTradesWBalance': '>95.0'}]
+"[{'NetFractionRevolvingBurden': '>48.0', 'NumInqLast6Mexcl7days': '>2.0'}, {'PercentTradesWBalance': '>63.0', 'NumTrades60Ever2DerogPubRec': '>3.0'}, {'PercentTradesWBalance': '>63.0', 'NetFractionInstallBurden': '>4.0'}]"
+[{'NetFractionRevolvingBurden': '>86.0'}]
+[{'NumTotalTrades': '<=7.0'}]
+"[{'MSinceOldestTradeOpen': '<=131.0', 'NumBank2NatlTradesWHighUtilization': '>2.0'}]"
+"[{'PercentTradesWBalance': '>53.0', 'NetFractionRevolvingBurden': '>41.0'}]"
+"[{'NetFractionRevolvingBurden': '>87.0', 'PercentTradesWBalance': '<=52.0'}, {'NetFractionRevolvingBurden': '>58.0', 'PercentTradesWBalance': '>52.0'}, {'NumTradesOpeninLast12M': '>3.0', 'AverageMInFile': '<=17.0'}, {'NumSatisfactoryTrades': '<=15.0', 'MSinceMostRecentTradeOpen': '>18.0'}]"
+"[{'MaxDelq2PublicRecLast12M': '<=4.0', 'NumTrades60Ever2DerogPubRec': '>1.0'}, {'PercentTradesWBalance': '>93.0', 'MSinceOldestTradeOpen': '<=336.0'}]"
+[{'MaxDelqEver': '<=2.0'}]
+[{'PercentTradesWBalance': '>86.0'}]
